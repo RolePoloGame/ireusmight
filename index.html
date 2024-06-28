@@ -8,8 +8,7 @@
 
     ul,
     li {
-
-      font-size: 6vmin;
+      font-size: 1.6vw;
     }
 
     ul,
@@ -58,7 +57,7 @@
       margin-bottom: 10px;
       padding: 5px;
       width: 300px;
-      font-size: 10vmin;
+      font-size: 6vmin;
     }
   </style>
 
@@ -67,7 +66,6 @@
 </head>
 
 <body>
-  <input type="text" id="searchBar" placeholder="Search...">
   <script>
     function parseXML(xmlString) {
       const parser = new DOMParser();
@@ -147,8 +145,6 @@
         }
       }
     }
-
-    document.getElementById('searchBar').addEventListener('input', filterList);
 
     async function fetchXML(filePath) {
       const response = await fetch(filePath);
