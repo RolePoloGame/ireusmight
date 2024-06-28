@@ -2,14 +2,14 @@
   <folder name="Root">
     <folder name="Gods">
       <folder name="Su-en">
-        <file name="Su-en - ENG" href="RootRoot/Gods/Su-en/Su-en - ENG.html">Su-en - ENG.html</file>
-        <file name="Su-en - PL" href="RootRoot/Gods/Su-en/Su-en - PL.html">Su-en - PL.html</file>
+        <file name="Su-en - ENG" href="Root/Root/Gods/Su-en/Su-en - ENG.html">Su-en - ENG.html</file>
+        <file name="Su-en - PL" href="Root/Root/Gods/Su-en/Su-en - PL.html">Su-en - PL.html</file>
       </folder>
     </folder>
     <folder name="Lore">
-      <file name="lore-en" href="RootRoot/Lore/lore-en.html">lore-en.html</file>
-      <file name="lore-pl" href="RootRoot/Lore/lore-pl.html">lore-pl.html</file>
+      <file name="lore-en" href="Root/Root/Lore/lore-en.html">lore-en.html</file>
+      <file name="lore-pl" href="Root/Root/Lore/lore-pl.html">lore-pl.html</file>
     </folder>
   </folder>
-  <file name="Hierarchy XML Generator" href="RootHierarchy XML Generator.exe">Hierarchy XML Generator.exe</file>
+  <file name="hierarchy" href="Root/hierarchy.xml">hierarchy.xml</file>
 </folder>
