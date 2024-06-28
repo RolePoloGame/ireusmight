@@ -1,0 +1,14 @@
+<folder name="lore">
+  <folder name="world">
+    <folder name="Gods">
+      <folder name="Su-en">
+        <file name="Su-en - ENG" href="lore/world/Gods/Su-en/Su-en - ENG.html">Su-en - ENG.html</file>
+        <file name="Su-en - PL" href="lore/world/Gods/Su-en/Su-en - PL.html">Su-en - PL.html</file>
+      </folder>
+    </folder>
+    <folder name="Lore">
+      <file name="lore-en" href="lore/world/Lore/lore-en.html">lore-en.html</file>
+      <file name="lore-pl" href="lore/world/Lore/lore-pl.html">lore-pl.html</file>
+    </folder>
+  </folder>
+</folder>
