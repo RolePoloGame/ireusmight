@@ -2,13 +2,13 @@
   <folder name="Root">
     <folder name="Gods">
       <folder name="Su-en">
-        <file name="Su-en - ENG" href="D:\RPG\_Ireus Might\Website\strony/Root/Gods/Su-en/Su-en - ENG.html">Su-en - ENG.html</file>
-        <file name="Su-en - PL" href="D:\RPG\_Ireus Might\Website\strony/Root/Gods/Su-en/Su-en - PL.html">Su-en - PL.html</file>
+        <file name="Su-en - ENG" href="strony/Root/Gods/Su-en/Su-en - ENG.html">Su-en - ENG.html</file>
+        <file name="Su-en - PL" href="strony/Root/Gods/Su-en/Su-en - PL.html">Su-en - PL.html</file>
       </folder>
     </folder>
     <folder name="Lore">
-      <file name="lore-en" href="D:\RPG\_Ireus Might\Website\strony/Root/Lore/lore-en.html">lore-en.html</file>
-      <file name="lore-pl" href="D:\RPG\_Ireus Might\Website\strony/Root/Lore/lore-pl.html">lore-pl.html</file>
+      <file name="lore-en" href="strony/Root/Lore/lore-en.html">lore-en.html</file>
+      <file name="lore-pl" href="strony/Root/Lore/lore-pl.html">lore-pl.html</file>
     </folder>
   </folder>
 </folder>
