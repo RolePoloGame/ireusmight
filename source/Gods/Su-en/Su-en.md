@@ -1,4 +1,3 @@
-﻿
 # Su-en, Rozdarta Bogini 
 
 > *Królowa nocy, Matka Nocy, Podwójna Królowa*
