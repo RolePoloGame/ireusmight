@@ -11,12 +11,8 @@
             "id": "ffed845b35954bc9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/Gods - ENG.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/Worldbuilding - QuickNotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/Worldbuilding - QuickNotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "source/Worldbuilding - QuickNotes.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,44 +139,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "3359fdaa5d29432b",
-    "type": "floating",
-    "children": [
-      {
-        "id": "3a912113f6b301dd",
-        "type": "window",
-        "children": [
-          {
-            "id": "881a3d07194fbaef",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3f622c8b1b5fdf21",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "source/Worldbuilding - QuickNotes.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 317,
-        "y": 333,
-        "width": 902,
-        "height": 502,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "3f622c8b1b5fdf21",
+  "active": "ffed845b35954bc9",
   "lastOpenFiles": [
     "source/Opis - PL.md",
     "source/Opis - ENG.md",
