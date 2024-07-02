@@ -1,4 +1,4 @@
-﻿## Su-en, the Split Goddess
+## Su-en, the Split Goddess
 Queen of the night, Night Mother, Dual Queen
 ### Nature and Aspects:
 Su-en embodies the duality of the moon, manifesting as two distinct personalities: the Silver and the Crimson. 
