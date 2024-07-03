@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "459437ee6db51901",
+        "id": "1d80b347e773ae2c",
         "type": "tabs",
         "children": [
           {
-            "id": "ffed845b35954bc9",
+            "id": "33d735d0917b9c0f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "source/World/Imperium Regalijskie/Opis.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "source/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "source/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "source/Intro.md"
+              }
             }
           }
         ]
@@ -139,8 +147,60 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ffed845b35954bc9",
+  "floating": {
+    "id": "ee6776cead61f517",
+    "type": "floating",
+    "children": [
+      {
+        "id": "0787f0b7f0fcffc2",
+        "type": "window",
+        "children": [
+          {
+            "id": "3a6058372b0c2569",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "535ea09110abaeef",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "source/Intro.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 317,
+        "y": 338,
+        "width": 802,
+        "height": 402,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "535ea09110abaeef",
   "lastOpenFiles": [
+    "source/World/Imperium Regalijskie/Opis.md",
+    "source/World/Daleka Północ/Skarnyrowie.md",
+    "source/Gods/Su-en/Dzieci Su-en.md",
+    "source/Gods/Su-en/Su-en.md",
+    "source/World/Imperium Regalijskie/regalian-emblem.png",
+    "source/archive/Historia Imperium.md",
+    "source/archive/Worldbuilding - QuickNotes.md",
+    "source/archive/Su-en [ENG].md",
+    "source/archive/Su-en [PL].md",
+    "lore/source/gods/su-en/dzieci-su-en.html",
+    "source/World/Imperium Regalijskie/polotno (8).png",
+    "source/World/Opis.md",
+    "source/World/Daleka Północ",
+    "source/Intro.md",
+    "source/World/Imperium Regalijskie",
     "source/Opis - PL.md",
     "source/Opis - ENG.md",
     "source/Gods - ENG.md",
